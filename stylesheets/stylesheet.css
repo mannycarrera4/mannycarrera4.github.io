@@ -59,7 +59,7 @@ body {
 }
 
 .jumbotron-image {
-  background: url(images/nashville1.jpg) no-repeat center center fixed; 
+  background: url('http://upload.wikimedia.org/wikipedia/commons/0/08/Nashville_skyline_2009.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
