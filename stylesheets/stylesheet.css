@@ -58,6 +58,15 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.jumbotron-image {
+  background: url(images/nashville1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
