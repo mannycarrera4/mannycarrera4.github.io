@@ -13,9 +13,8 @@ html {
 }
 
 body {
-  box-sizing: border-box;
   color:#fff;
-  background: #212121;
+  background: #fff;
   font-size: 16px;
   font-family: 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -29,7 +28,6 @@ body {
 }
 
 .main-container {
-  background: #fff;
   margin: 0;
   z-index: 100;
   width: 100%;
